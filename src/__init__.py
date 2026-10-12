@@ -1,4 +1,4 @@
 """VNIT Admission Chatbot - Source Package"""
 
 __version__ = '1.0.0'
-__author__ = 'Shreejeet480'
+__author__ = 'devnagar3242'
